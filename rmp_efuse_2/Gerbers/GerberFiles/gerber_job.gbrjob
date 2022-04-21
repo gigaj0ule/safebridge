@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-02-02T22:44:32Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.99,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "EFUSE 2.0.0"
+        },
+        "Owner": "Alec Korver <alec@kiteboat.com>",
+        "Size": {
+            "X": 42,
+            "Y": 77
+        }
+    }
+}
